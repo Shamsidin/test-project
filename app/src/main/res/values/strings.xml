@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test project</string>
+
+    <string name="images">Картинки</string>
+    <string name="login">Логин</string>
+    <string name="enter">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="incorrect_email">Incorrect email</string>
+    <string name="incorrect_password">Incorrect password</string>
+</resources>

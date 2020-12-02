@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="logo_size">300dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="recycler_bottom_padding">72dp</dimen>
+</resources>
